@@ -9,7 +9,7 @@ The minimum requirement by yii2-bootstrap4-materialize that your Web server supp
 ### Install via Composer
 
 ```
-$ php composer.phar require schmasterz-v/yii2-bootstrap4-materialize "master@dev"
+$ php composer.phar require schmasterz/yii2-bootstrap4-materialize "master@dev"
 ```
 
 ### Usage
