@@ -4,7 +4,6 @@
   "keywords": [
     "yii2", "bootstrap4", "material", "design"
   ],
-  "minimum-stability": "dev",
   "repositories": [
     { "type": "composer", "url": "https://asset-packagist.org" }
 
