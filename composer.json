@@ -9,7 +9,7 @@
 
   ],
   "type": "yii2-extension",
-  "minimum-stability" : "dev",
+
   "license": "MIT",
   "support": {
     "issues": "https://github.com/schmasterz/yii2-bootstrap4-materialize/issues",
