@@ -1,6 +1,6 @@
 # yii2-bootstrap4-materialize
 
-Yii2 assets for boostrap4-materialize, a CSS Framework based on [Material Design](https://materializecss.com/).
+Yii2 asset for boostrap4-materialize, a CSS Framework based on [Material Design](https://materializecss.com/).
 
 ### Requirements
 
